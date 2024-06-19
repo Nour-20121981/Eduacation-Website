@@ -1,3 +1,6 @@
-#navbarNav, .feature{
+#navbarNav, .feature, .footer, .teacher{
     background-color: darkorange;
+}
+.teacher{
+    border-radius: 5px;
 }
